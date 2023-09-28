@@ -1,16 +1,15 @@
-### Hi there 👋
+#♾️ About me :
 
-<!--
-**ColibriXD/colibriXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 junior developer in python and java <br>😁 good html developer
 
-Here are some ideas to get you started:
+#🗂️ my project ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 a bot for a discord server on the subject of Storage wars<br>
+🎮 a simple game with complicated mechanics<br>
+🏫 a remix of pronote (we are redeveloping the site)
+
+#⛷️ my skill
+
+👨‍💻 relentless<br>
+🐢 knows the algorithm<br>
+🤪 good dev on html
