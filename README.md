@@ -4,10 +4,8 @@
 
 #🗂️ my project ideas
 
-🎮 a simple game with complicated mechanics<br>
+never <br>
 
 #⛷️ my skill
 
-👨‍💻 relentless<br>
-🐢 knows the algorithm<br>
-🤪 good dev on html
+never also, I'm joking <br>
